@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Daniela Bouwman",
+        "cpf": "09645099871",
+        "email": "dbouwmanc@hotmail.com",
+        "whatsapp": "81987009876",
+        "adress": {
+            "postalcode": "04042005",
+            "street": "Avenida Doutor Altino Arantes",
+            "number": "1132",
+            "details": "apto 142",
+            "district": "Vila Clementino",
+            "city_uf": "São Paulo/SP"
+        },
+        "deliveryMethod": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Daniela Bouwman",
+        "cpf": "X96450998AA",
+        "email": "dbouwmanc@hotmail.com",
+        "whatsapp": "81987009876",
+        "adress": {
+            "postalcode": "04042005",
+            "street": "Avenida Doutor Altino Arantes",
+            "number": "1132",
+            "details": "apto 142",
+            "district": "Vila Clementino",
+            "city_uf": "São Paulo/SP"
+        },
+        "deliveryMethod": "Moto",
+        "cnh": "cnh-digital.jpg" 
+    },
+    "email_inv": {
+        "name": "Daniela Bouwman",
+        "cpf": "09645099871",
+        "email": "dbouwmanc.com",
+        "whatsapp": "81987009876",
+        "adress": {
+            "postalcode": "04042005",
+            "street": "Avenida Doutor Altino Arantes",
+            "number": "1132",
+            "details": "apto 142",
+            "district": "Vila Clementino",
+            "city_uf": "São Paulo/SP"
+        },
+        "deliveryMethod": "Moto",
+        "cnh": "cnh-digital.jpg" 
+    }
+}

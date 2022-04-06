@@ -1,0 +1,5 @@
+node_modules
+cypress/videos
+cypress/screenshots
+playwright.config.js
+tests/example.spec.js
